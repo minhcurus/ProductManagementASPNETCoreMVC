@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PRN222.Lab1.Services
 {
-    public interface ICatergoryService
+    public interface ICategoryService
     {
         List<Category> GetCategories();
     }

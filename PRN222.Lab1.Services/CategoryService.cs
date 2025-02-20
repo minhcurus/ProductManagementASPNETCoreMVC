@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PRN222.Lab1.Services
 {
-    public class CategoryService : ICatergoryService
+    public class CategoryService : ICategoryService
     {
         private ICategoryRepository iCategoryRepository;
 
